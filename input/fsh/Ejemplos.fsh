@@ -156,7 +156,7 @@ Usage: #example
 
 * event.period.start = "2024-04-13"
 * event.period.end = "2024-07-23"
-* section.codeSystem = "https://biomedica.uv.cl/fhir/CodeSystem/CSSDocumento1"
+
 * section[AntecedentesClinicos].title = "Antecedentes Clínicos."
 * section[AntecedentesClinicos].code.coding.system = "https://biomedica.uv.cl/fhir/CodeSystem/CSSDocumento1"
 * section[AntecedentesClinicos].code.coding.code = #01
