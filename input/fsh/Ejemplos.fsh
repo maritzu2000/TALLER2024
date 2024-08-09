@@ -152,7 +152,7 @@ Usage: #example
 
 * section.code = #01
 * author.reference = "profesional"
-* section.title = "algodesalud"
+* section.title = "Documento de resultado de biopsia"
 
 * event.period.start = "2024-04-13"
 * event.period.end = "2024-07-23"
